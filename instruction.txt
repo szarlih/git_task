@@ -1,0 +1,3 @@
+This is instruction for this task.
+Create new file with name 'hello-world.txt'
+In file write current date and time
