@@ -1,4 +1,4 @@
 # git_task
 Practice git
 
-Checkout branch first_step
+After done checkout second_step
