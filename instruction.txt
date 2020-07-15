@@ -1,11 +1,4 @@
-<<<<<<< HEAD
 no info
 
 
 7:41 7/15/2020
-=======
-This is instruction for this task.
-Create new file with name 'hello-world.txt'
-In file write current date and time
-Commit and push this file to this branch.
->>>>>>> first_step
